@@ -11,6 +11,12 @@
                     templateUrl: 'partials/dashboard.html',
                     controller:'dashboardController',
                     controllerAs:'vm'
+                })
+                .state('question',{
+                    url:'/question:name',
+                    templateUrl:'partials/question.html',
+                    controller:'questionController',
+                    controllerAs:'qm'
                 });
             $locationProvider.html5Mode(true);
         })

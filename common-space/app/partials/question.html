@@ -1,0 +1,36 @@
+<div class="center">
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-3 topic-heading">{{qm.topicName}}</div>
+        <div class="col-md-7"></div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 " ng-repeat="subject in qm.topicQuestions">
+            <div class="col-md-2"></div>
+            <div class="col-md-8 question-body">
+                <p class="question-p">{{subject.question}}</p>
+                <div class="row">
+                    <div class="col-md-12">
+                        <top-answer name='{{qm.topicName}}' question='{{subject.question}}'></top-answer>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="sub-heading"><b>Total Answers :</b><b class="answer-desc">{{subject.answers.length}}</b></label>
+
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12" style="text-align: right">
+                        <label class="sub-heading"><b>Question Rating :</b><b class="answer-desc">{{subject.rate}}</b></label>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2"></div>
+
+
+
+        </div>
+    </div>
+</div>

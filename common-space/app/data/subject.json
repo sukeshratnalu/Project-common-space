@@ -3,59 +3,95 @@
     "name":"Science",
     "subject": [
       {
-        "question":" sc qn1",
+        "question":" What is the effect of different amounts of chlorine on plant growth-large amount, smallamount, or no chlorine?",
         "rate":5,
         "answers": [
           {
-            "answer": " sc qn answer 1",
+            "answer": " Most communities add small amounts of chlorine to drinking water to ensure safety for residents. ",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "sc qn answer 2",
+            "answer": "Typical drinking water does not contain high enough amounts of chlorine to truly eliminate beneficial microorganisms in the soil, thereby minimally affecting plant growth",
             "author": "answer author",
             "rate":3,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "sc qn answer 3",
+            "answer": "Beneficial microorganisms found in soil reproduce at such high rates, making the effects of chlorinated water nearly moot.",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "sc qn answer 4",
+            "answer": "Chlorine can kill beneficial microorganisms in soil, thereby affecting plant growth; however, most chlorinated drinking water is not concentrated enough to adversely affect plant life in a given area. This is due to the fact that the reproduction rate of microorganisms in the soil is so high that they tend to reproduce again before the plant can be negatively affect by the soil.",
             "author": "answer author",
             "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Chlorine also binds to the surfaces of soil particles, which reduces the chlorine's ability to destroy beneficial microorganisms",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": " Studies show that soil subjected to chlorinated drinking water only displayed a reduction in microorganisms in the upper 1/2 inch of soil.",
+            "author": "answer author",
+            "rate":1,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "If enough salt accumulates in the soil and into the root zone, it may dehydrate the plant and impede plant growth.",
+            "author": "answer author",
+            "rate":4,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "There are numerous forms of radiation, including gamma rays, which can hinder the seed germination, root growth and shoot growth of a plant, and ultraviolet, or UV, radiation from the sun, which helps to feed a plant after it has germinated and reached the surface of the soil.",
+            "author": "answer author",
+            "rate":3,
             "answered-date":"01/01/2016"
           }
         ]
       },
       {
-        "question":" sc qn2",
+        "question":" Which increases your heart rate more: walking up and down real stairs or using a stair-master?",
         "rate":2,
         "answers": [
           {
-            "answer": "sc qn2 answer 1",
+            "answer": "Actually, if you tested that question, you will find that walking  up and down the stairs increases the heart rate much more. ",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "sc qn2 answer 2",
+            "answer": "they can go up stairs but its more of a walk with the front leg and jumping with the back. ",
             "author": "answer author",
             "rate":3,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "sc qn2 answer 3",
+            "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "sc qn2 answer 4",
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Walking up and down stairs burns more calories than walking on a flat route at a moderate pace. Walking downstairs burns between 175 and 275 calories per hour, depending upon your weight. Climbing upstairs burns 530 to 835 calories per hour.",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Whether you walk or run you are still lifting the mass of your body through the same height against gravity, so the amount of work done is equal in each case, but where the work is done in less time more power is required. Yes, you exert more power when you run up the stairs. ",
             "author": "answer author",
             "rate":5,
             "answered-date":"01/01/2016"
@@ -63,31 +99,49 @@
         ]
       },
       {
-        "question":" sc qn3",
+        "question":" Which type of container traps the most heat: a shoe box covered in aluminum foil, plastic wrap,or wax paper?",
         "rate":3,
         "answers": [
           {
-            "answer": "sc qn3 answer 1",
+            "answer": "Aluminum foil is also used in cooking. It is used to wrap delicate and moisture sensitive foods like vegetables.",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "sc qn3 answer 2",
+            "answer": "In addition to the above, aluminum foil is also widely used for insulation, i.e. for thermal insulation, heat conduction and electrical conductivity.",
             "author": "answer author",
             "rate":3,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "sc qn3 answer 3",
+            "answer": "Aluminum foil is also widely used to wrap leftovers, to help preserve the food.",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "sc qn3 answer 4",
+            "answer": "Aluminum foil is essentially thin sheets of aluminium metal, generally less than 0.2mm thick. They are easily folded and wrapped around objects of any shape and size, making them useful in food packaging",
             "author": "answer author",
             "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Cosmetics, pharmaceuticals and chemical products. Aluminum foil also acts as a barrier to light, oxygen, flavor, odor, bacteria and moisture. Long-life packaging that is used to package drinks and dairy products stored without refrigeration also make use of aluminum foil. ",
+            "author": "answer author",
+            "rate":4,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Aluminum foil helps to retain moisture and hence vegetables and mushrooms will have more appealing texture when wrapped in aluminum foil before they being cooked.",
+            "author": "answer author",
+            "rate":3,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Plastic wrap is a thin film of plastic that is sometimes used to wrap and seal food items in a container in order for the food to be kept fresh for a longer period of time. ",
+            "author": "answer author",
+            "rate":2,
             "answered-date":"01/01/2016"
           }
         ]
@@ -99,58 +153,94 @@
     "name":"Technology",
     "subject": [
       {
-        "question":"qn1",
+        "question":"Larger buildings may be supplied with a medium voltage electricity supply, and will required a substation or mini-sub. What is the main item of equipment contained in these?",
         "rate":5,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "Larger buildings may be supplied with a medium voltage electricity supply, and will required a substation or mini-sub.",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "typically connects personal computers within a very limited geographical area, usually within a single building.",
             "author": "answer author",
             "rate":3,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "the following is a folder that retains copies of messages have started but are not yet send to the recipient",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "A person invested 4 lakh at interest rate 23% per annum for one year. If the interest is compounded half-yearly, what amount of interest will the person get at the end of that year",
             "author": "answer author",
             "rate":5,
             "answered-date":"01/01/2016"
-          }
-        ]
-      },
-      {
-        "question":"qn2",
-        "rate":2,
-        "answers": [
+          },
           {
-            "answer": "qn answer",
+            "answer": "25 litres of salt solution contains 6% salt. How many litres of water must he added so as to get a resultant solution containing 5% salt",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "account is best suitable for fixed monthly savings to earn maximum interest, for an individual.",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "List of headings of the business to be transacted at a meeting called Schedule.  ",
+            "author": "answer author",
+            "rate":3,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "By Selling 66 pens one gain selling price of 22 pens. ",
+            "author": "answer author",
+            "rate":1,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "A man’s speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man’s speed against the current",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "Here are some words translated from an artificial language.dionot means oak tree",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          }
+        ]
+      },
+      {
+        "question":"Once the active medium is excited, the first photons of light are produced by which physical process?",
+        "rate":2,
+        "answers": [
+          {
+            "answer": "Once the active medium is excited, the first photons of light are produced by which physical process",
+            "author": "answer author",
+            "rate":4,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys.",
             "author": "answer author",
             "rate":3
           },
           {
-            "answer": "qn answer",
+            "answer": "Once the active medium is excited, the first photons of light are produced by which physical process - See more at: http://www.time2study.in/general-knowledge/technology/discussion-202008.html#sthash.SbKwXHAp.dpuf",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
             "author": "answer author",
             "rate":5,
             "answered-date":"01/01/2016"
@@ -158,89 +248,113 @@
         ]
       },
       {
-        "question":"qn3",
+        "question":"In a color television set using a picture tube a high voltage is used to accelerate electron beams to light the screen. That voltage is about...?",
         "rate":3,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
-            "rate":4,
+            "rate":5,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
             "rate":3,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys.",
+            "author": "answer author",
+            "rate":4,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "In a color television set using a picture tube a high voltage is used to accelerate electron beams to light the screen. That voltage is about.",
             "author": "answer author",
             "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "count is best suitable for fixed monthly savings to earn maximum interest, for an individual.",
+            "author": "answer author",
+            "rate":1,
             "answered-date":"01/01/2016"
           }
         ]
       },
       {
-        "question":"qn4",
+        "question":"What do we call a collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly?",
         "rate":0.3,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly.",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys.",
             "author": "answer author",
             "rate":3,
-            "answered-date":"01/01/2016"
-          },
-          {
-            "answer": "qn answer",
-            "author": "answer author",
-            "rate":2,
-            "answered-date":"01/01/2016"
-          },
-          {
-            "answer": "qn answer",
-            "author": "answer author",
-            "rate":5,
             "answered-date":"01/01/2016"
           }
         ]
       },
       {
-        "question":"qn1",
+        "question":"Sometimes computers and cache registers in a foodmart are connected to a UPS system. What does UPS mean?",
         "rate":5,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "25 litres of salt solution contains 6% salt. How many litres of water must he added so as to get a result",
             "author": "answer author",
             "rate":3,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Here are some words translated from an artificial language.dionot means oak tree",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "count is best suitable for fixed monthly savings to earn maximum interest, for an individual.",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys.",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",
             "author": "answer author",
             "rate":5,
             "answered-date":"01/01/2016"
@@ -254,11 +368,11 @@
     "name":"Army",
     "subject": [
       {
-        "question":"qn1",
+        "question":"Which one of the following is not a quantitative credit control measure of a centralBank?",
         "rate":5,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
@@ -270,36 +384,78 @@
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "A person invested 4 lakh at interest rate 23% per annum for one year. If the interest is compounded half-yearly, what amount of interest will the person get at the end of that year",
             "author": "answer author",
             "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "qn answer",
+            "author": "answer author",
+            "rate":2,
             "answered-date":"01/01/2016"
           }
         ]
       },
       {
-        "question":"qn2",
+        "question":"f one-third part of a tank is filled with water, it contains 80 l water. How much water is required for filling the half of the tank ?",
         "rate":2,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
             "rate":3
           },
           {
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
             "answer": "qn answer",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly.",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
@@ -313,47 +469,35 @@
         ]
       },
       {
-        "question":"qn3",
+        "question":"Which one of the following is a hindrance to liberty and independence ?",
         "rate":3,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly.",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",
             "author": "answer author",
             "rate":3,
-            "answered-date":"01/01/2016"
-          },
-          {
-            "answer": "qn answer",
-            "author": "answer author",
-            "rate":2,
-            "answered-date":"01/01/2016"
-          },
-          {
-            "answer": "qn answer",
-            "author": "answer author",
-            "rate":5,
             "answered-date":"01/01/2016"
           }
         ]
       },
       {
-        "question":"qn4",
+        "question":" Which of the following is not associated with Parliament ?",
         "rate":0.3,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
             "rate":3,
             "answered-date":"01/01/2016"
@@ -365,7 +509,7 @@
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
             "author": "answer author",
             "rate":5,
             "answered-date":"01/01/2016"
@@ -379,29 +523,29 @@
     "name":"India",
     "subject": [
       {
-        "question":"qn1",
+        "question":"Rabindranath Tagore's 'Jana Gana Mana' has been adopted as India's National Anthem. How many stanzas of the said song were adopted?",
         "rate":5,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
             "rate":3,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
             "author": "answer author",
             "rate":5,
             "answered-date":"01/01/2016"
@@ -409,7 +553,7 @@
         ]
       },
       {
-        "question":"qn2",
+        "question":"The words 'Satyameva Jayate' inscribed below the base plate of the emblem of India are taken from",
         "rate":2,
         "answers": [
           {
@@ -419,7 +563,7 @@
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly.",
             "author": "answer author",
             "rate":3
           },
@@ -430,31 +574,13 @@
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
             "rate":5,
             "answered-date":"01/01/2016"
-          }
-        ]
-      },
-      {
-        "question":"qn3",
-        "rate":3,
-        "answers": [
-          {
-            "answer": "qn answer",
-            "author": "answer author",
-            "rate":4,
-            "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
-            "author": "answer author",
-            "rate":3,
-            "answered-date":"01/01/2016"
-          },
-          {
-            "answer": "qn answer",
+            "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
@@ -462,7 +588,73 @@
           {
             "answer": "qn answer",
             "author": "answer author",
+            "rate":1,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",
+            "author": "answer author",
             "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly.",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
+            "author": "answer author",
+            "rate":3,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
+            "author": "answer author",
+            "rate":4,
+            "answered-date":"01/01/2016"
+          }
+        ]
+      },
+      {
+        "question":"Which of the following Akademis is responsible for fostering the development of dance, drama and music in India?",
+        "rate":3,
+        "answers": [
+          {
+            "answer": "collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly.",
+            "author": "answer author",
+            "rate":4,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",
+            "author": "answer author",
+            "rate":3,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
+            "author": "answer author",
+            "rate":2,
             "answered-date":"01/01/2016"
           }
         ]
@@ -474,41 +666,29 @@
     "name":"Agriculture",
     "subject": [
       {
-        "question":"qn1",
+        "question":"The Indian Institute of Horticultural Research is located at which among the following places?",
         "rate":5,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
             "rate":3,
-            "answered-date":"01/01/2016"
-          },
-          {
-            "answer": "qn answer",
-            "author": "answer author",
-            "rate":2,
-            "answered-date":"01/01/2016"
-          },
-          {
-            "answer": "qn answer",
-            "author": "answer author",
-            "rate":5,
             "answered-date":"01/01/2016"
           }
         ]
       },
       {
-        "question":"qn2",
+        "question":"At which among the following places, the Central Institute for Subtropical Horticulture is located ?",
         "rate":2,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
@@ -519,13 +699,37 @@
             "rate":3
           },
           {
-            "answer": "qn answer",
+            "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "A person invested 4 lakh at interest rate 23% per annum for one year. If the interest is compounded half-yearly, what amount of interest will the person get at the end of that year",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly.",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",
             "author": "answer author",
             "rate":5,
             "answered-date":"01/01/2016"
@@ -533,11 +737,11 @@
         ]
       },
       {
-        "question":"qn3",
-        "rate":3,
+        "question":"All India Coordinated Research Project on Tropical Fruits is located at which among the following places?",
+        "rate":2,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
@@ -549,13 +753,13 @@
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly.",
             "author": "answer author",
             "rate":5,
             "answered-date":"01/01/2016"
@@ -563,37 +767,25 @@
         ]
       },
       {
-        "question":"qn4",
+        "question":"Which among the following variety accounts for maximum production of silk in India?",
         "rate":0.3,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
             "author": "answer author",
             "rate":3,
-            "answered-date":"01/01/2016"
-          },
-          {
-            "answer": "qn answer",
-            "author": "answer author",
-            "rate":2,
-            "answered-date":"01/01/2016"
-          },
-          {
-            "answer": "qn answer",
-            "author": "answer author",
-            "rate":5,
             "answered-date":"01/01/2016"
           }
         ]
       },
       {
-        "question":"qn5",
+        "question":"How many factors are identified for influencing plant growth till now?",
         "rate":3,
         "answers": [
           {
@@ -603,29 +795,17 @@
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly.",
             "author": "answer author",
             "rate":3,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
-          {
-            "answer": "qn answer",
-            "author": "answer author",
-            "rate":5,
-            "answered-date":"01/01/2016"
-          }
-        ]
-      },
-      {
-        "question":"qn5",
-        "rate":3,
-        "answers": [
           {
             "answer": "qn answer",
             "author": "answer author",
@@ -633,7 +813,31 @@
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          }
+        ]
+      },
+      {
+        "question":"How much radiation energy percentage radiating on plant is used is photosynthesis?",
+        "rate":5,
+        "answers": [
+          {
+            "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",
+            "author": "answer author",
+            "rate":4,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly.",
             "author": "answer author",
             "rate":3,
             "answered-date":"01/01/2016"
@@ -645,9 +849,45 @@
             "answered-date":"01/01/2016"
           },
           {
+            "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
             "answer": "qn answer",
             "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly.",
+            "author": "answer author",
             "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "qn answer",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
+            "author": "answer author",
+            "rate":1,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
+            "author": "answer author",
+            "rate":4,
             "answered-date":"01/01/2016"
           }
         ]
@@ -659,11 +899,11 @@
     "name":"Navy",
     "subject": [
       {
-        "question":"qn1",
+        "question":"The first mechanical computer designed by Charles Babbage was called ?",
         "rate":5,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
@@ -675,13 +915,25 @@
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly.",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state. ",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
+            "author": "answer author",
+            "rate":1,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",
             "author": "answer author",
             "rate":5,
             "answered-date":"01/01/2016"
@@ -689,62 +941,93 @@
         ]
       },
       {
-        "question":"qn2",
+        "question":"Which of the following is the most powerful type of computer ? ",
         "rate":2,
         "answers": [
           {
-            "answer": "qn answer",
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
             "author": "answer author",
-            "rate":4,
+            "rate":5,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster. ",
             "author": "answer author",
             "rate":3
           },
           {
-            "answer": "qn answer",
+            "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
-            "author": "answer author",
-            "rate":5,
-            "answered-date":"01/01/2016"
-          }
-        ]
-      },
-      {
-        "question":"qn3",
-        "rate":3,
-        "answers": [
-          {
-            "answer": "qn answer",
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
             "author": "answer author",
             "rate":4,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly.",
+            "author": "answer author",
+            "rate":3,
+            "answered-date":"01/01/2016"
+          }
+        ]
+      },
+      {
+        "question":"Which of the following is an advantage to using fibre optics data transmission? ",
+        "rate":4,
+        "answers": [
+          {
+            "answer": "This is due to the fact that the reproduction rate of microorganisms in the soil is so high that they tend to reproduce again before the plant can be negatively affect by the soil.",
+            "author": "answer author",
+            "rate":4,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting.",
             "author": "answer author",
             "rate":3,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "Aluminum foil is essentially thin sheets of aluminium metal, generally less than 0.2mm thick. ",
             "author": "answer author",
             "rate":2,
             "answered-date":"01/01/2016"
           },
           {
-            "answer": "qn answer",
+            "answer": "Chlorine can kill beneficial microorganisms in soil, thereby affecting plant growth; however, most chlorinated drinking water is not concentrated enough to adversely affect plant life in a given area.",
             "author": "answer author",
             "rate":5,
             "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "They are easily folded and wrapped around objects of any shape and size, making them useful in food packaging",
+            "author": "answer author",
+            "rate":2,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "In most cases, you will increase the intensity of your workout by climbing stairs because the act of lifting your legs to scale steps also strengthens your gluteal, thigh and calf muscles.",
+            "author": "answer author",
+            "rate":5,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "A person invested 4 lakh at interest rate 23% per annum for one year. If the interest is compounded half-yearly, what amount of interest will the person get at the end of that year",
+            "author": "answer author",
+            "rate":1,
+            "answered-date":"01/01/2016"
+          },
+          {
+            "answer": "Spontaneous emission is what you see with most 'glow in the dark' toys.",
+            "author": "answer author",
+            "rate":3,
+            "answered-date":"01/01/2016"
           }
+
         ]
       }
 

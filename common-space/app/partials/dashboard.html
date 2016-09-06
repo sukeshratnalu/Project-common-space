@@ -2,7 +2,7 @@
 <div class="container">
     <div class="row" >
         <div class="col-md-4 subject-body" ng-repeat="subject in vm.subject">
-            <a  ng-click="vm.showQuestion(subject.name)" ui-sref="#">
+            <a   ui-sref="question({name: subject.name})">
                 <div class="row subject-heading" >{{subject.name}}</div>
                 <div class="row image-div {{subject.name}}" id="img-id">
                 </div>

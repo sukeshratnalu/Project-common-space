@@ -14,7 +14,12 @@ module.exports = function(config) {
       'app/bower_components/angular-ui-router/release/angular-ui-router.min.js',
       'app/modules/dashboard/dashboard.controller.js',
       'app/modules/dashboard/dashboard.factory.js',
-      'test/modules/dashboard/dashboard.controller.spec.js'
+      'app/modules/questions/questions.controller.js',
+      'app/modules/questions/questions.directive.js',
+
+      'test/modules/questions/questions.controller.spec.js',
+      'test/modules/dashboard/dashboard.controller.spec.js',
+      'test/modules/questions/questions.directive.spec.js'
     ],
 
     autoWatch: true,
