@@ -26,7 +26,7 @@
 
             // The promise is returned to the caller
             return deferred.promise;
-        }
+        };
         return service;
 
     }

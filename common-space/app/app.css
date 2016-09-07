@@ -1,0 +1,100 @@
+.header{
+  background-color: #7FFFD4;
+  padding-left: 10px;
+}
+.body-content{
+  min-height: 520px;
+
+}
+.footer{
+  text-align: right;
+  padding:10px;
+  background-color: #7FFFD4;
+}
+h1{
+  color: #fff;
+  text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135;
+  font: 30px 'ChunkFiveRegular';
+}
+.subject-body {
+  border: 3px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  max-width: 370px;
+
+}
+.image-div{
+  height: 150px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  width: 80%;
+  height: 150px;
+  background-size: 100%;
+  margin: 20px
+}
+.image-div:focus{
+  background-color: Aqua;
+}
+.Technology{
+  background-image: url("data/images/network-admin.jpg");
+
+}
+.Army{
+  background-image: url("data/images/army-login-3.jpg");
+
+}
+.Agriculture{
+  background-image: url("data/images/agric-irrigation.jpg");
+}
+.Science{
+  background-image: url("data/images/IMG_9331.jpg");
+}
+.India{
+  background-image: url("data/images/GatewayofIndia.jpg");
+}
+.Navy{
+  background-image: url("data/images/dia-de-la-marina-dia-de-la-marina-uno-de-junio20130601.jpg");
+}
+.subject-heading{
+  padding-left: 10px;
+  padding-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.subject-footer{
+  padding-left: 10px;
+}
+.question-body{
+  border: 3px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  padding-top: 20px;
+  font-size: 20px;
+}
+.topic-heading{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  text-align: center;
+  color:#DAA520;
+  font-size: 25px;
+  font-weight: bold;
+}
+.question-p{
+  color: red;
+}
+.answer-desc{
+  color: green;
+}
+.sub-heading{
+  color:#DAA520;
+}
+
+

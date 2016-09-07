@@ -8,39 +8,16 @@
 describe('This will test question controller',function () {
     var scope;
     var controller;
+    var questionservice;
     beforeEach(module('commonSpace'));
 
-    beforeEach(inject(function (_$controller_, $rootScope) {
+    beforeEach(inject(function (_$controller_, $rootScope,questionService) {
         scope=$rootScope.$new();
         controller=_$controller_;
+        questionservice=questionService;
     }));
     it('should test controller',function(){
-        var vm = controller("questionController",{});
-        console.log('######################'+vm);
-
-        expect(vm.getQuestions).toBeDefined();
-
+        var vm = controller("questionController",{questionService:questionservice});
 
     });
-    it ('should test getQuestions method',function(){
-        var vm = controller("questionController",{});
-        var name='Science';
-        var allSubjects=scope.allSubject;
-        var questions=[];
-        function getQuestions(){
-            angular.forEach(qm.allSubject,function(data){
-                if(data.name==name){
-
-                    angular.forEach(data.subject,function(data){
-                        questions.push(data);
-                    })
-                }
-
-            });
-        }
-        expect(vm.topicQuestions).toEqual(questions);
-    })
-
-
-
 });

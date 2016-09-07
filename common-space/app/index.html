@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="commonSpace" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="commonSpace" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="commonSpace" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="commonSpace" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>My AngularJS App</title>
+  <meta name="description" content="">
+  <base href="/" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/normalize.css">
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/main.css">
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="app.css">
+  <script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+<body>
+
+    <div class="row header">
+      <div class="col-md-12">
+        <p><h1>Common-Space</h1></p>
+      </div>
+    </div>
+
+    <div ui-view class="body-content" >
+
+    </div>
+
+    <div class="row footer">
+      <div class="col-md-12">
+        <p>Powered By Semanticbits</p>
+      </div>
+    </div>
+
+
+  <script src="bower_components/angular/angular.js"></script>
+  <script src="bower_components/angular-route/angular-route.js"></script>
+  <script src="bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+  <script src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+  <script src="components/version/version.js"></script>
+  <script src="components/version/version-directive.js"></script>
+  <script src="components/version/interpolate-filter.js"></script>
+
+  <script src="modules/app.module.js"></script>
+  <script src="modules/app.config.js"></script>
+  <script src="modules/app.run.js"></script>
+  <script src="modules/dashboard/dashboard.factory.js"></script>
+  <script src="modules/dashboard/dashboard.controller.js"></script>
+  <script src="modules/questions/question.service.js"></script>
+  <script src="modules/questions/questions.controller.js"></script>
+  <script src="modules/questions/questions.directive.js"></script>
+  <script src="modules/answers/answer.service.js"></script>
+  <script src="modules/answers/answers.controller.js"></script>
+  <script src="modules/filters/dashboard.filter.js"></script>
+
+</body>
+</html>

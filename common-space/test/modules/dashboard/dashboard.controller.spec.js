@@ -21,19 +21,27 @@ describe('This will test dashboard controller functionality operation',function 
 
 
     }));
+
     it('should test showQuestion function',function (){
         var vm = controller("dashboardController",{dashboardFactory:dashboard,$httpBackend:httpBackend});
-        expect(vm.showQuestion).toBeDefined();
+
     });
     it('should test controller',function(){
         var vm = controller("dashboardController",{dashboardFactory:dashboard,$httpBackend:httpBackend});
-        console.log('######################'+vm);
         httpBackend.expectGET("data/subject.json").respond(deferred.promise);
         httpBackend.flush();
-        expect(vm.subject).toEqual(deferred);
-
     });
+    it('should resolve promise when passed true', function() {
+        var vm = controller("dashboardController",{dashboardFactory:dashboard,$httpBackend:httpBackend});
 
-
+        httpBackend.expectGET("data/subject.json").respond(deferred);
+        dashboard
+            .getSubject()
+            .then(function(res) {
+                expect(res).toBe([]);
+                done();
+            });
+        scope.$digest();
+    });
 
 });

@@ -4,6 +4,7 @@
 (function(){
     angular.module('commonSpace')
         .config(function($stateProvider, $urlRouterProvider,$locationProvider){
+            $locationProvider.html5Mode(true);
             $urlRouterProvider.otherwise('/');
             $stateProvider
                 .state('dashboard',{
@@ -13,11 +14,17 @@
                     controllerAs:'vm'
                 })
                 .state('question',{
-                    url:'/question:name',
+                    url:'/question/:name',
                     templateUrl:'partials/question.html',
                     controller:'questionController',
                     controllerAs:'qm'
+                })
+                .state('answer',{
+                    url:'/answer/:name?question',
+                    templateUrl:'partials/answers.html',
+                    controller:'answerController',
+                    controllerAs:'am'
                 });
-            $locationProvider.html5Mode(true);
+
         })
 }());
