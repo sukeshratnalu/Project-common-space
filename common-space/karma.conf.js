@@ -11,8 +11,12 @@ module.exports = function(config) {
       'app/components/**/*.js',
       'app/modules/app.module.js',
       'app/modules/app.config.js',
+      'app/modules/app.run.js',
       'app/bower_components/angular-ui-router/release/angular-ui-router.min.js',
       'app/modules/filters/dashboard.filter.js',
+      'app/bower_components/angular-bootstrap/ui-bootstrap.min.js',
+      'app/bower_components/angular-ui-router-uib-modal/angular-ui-router-uib-modal.js',
+      'app/bower_components/angularjs-datepicker/dist/angular-datepicker.min.js' ,
 
       'app/modules/dashboard/dashboard.controller.js',
       'app/modules/dashboard/dashboard.factory.js',
@@ -21,6 +25,7 @@ module.exports = function(config) {
       'app/modules/questions/questions.directive.js',
       'app/modules/answers/answer.service.js',
       'app/modules/answers/answers.controller.js',
+      'app/modules/addTopic/addTopic.service.js',
 
 
       'test/modules/questions/questions.controller.spec.js',
@@ -29,7 +34,9 @@ module.exports = function(config) {
       'test/modules/dashboard/dashboard.controller.spec.js',
       'test/modules/questions/questions.directive.spec.js',
       'test/modules/questions/questions.service.spec.js',
-      'test/modules/filters/dashboard.filter.spec.js'
+      'test/modules/filters/dashboard.filter.spec.js',
+      'test/modules/app.run.spec.js'
+
 
 
     ],

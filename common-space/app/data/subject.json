@@ -698,7 +698,8 @@
           {
             "answer": "Gwendolyn Brooks",
             "author": "Kristi Brooks",
-            "rate":3
+            "rate":3,
+            "answereddate":"01/01/2016"
           },
           {
             "answer": "Walking up and down the stairs is an excellent replacement for walking. Both activities elevate your heart rate and, depending upon your pace, burn calories quickly.",

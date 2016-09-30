@@ -4,13 +4,14 @@
 (function(){
     angular.module('commonSpace')
         .controller('dashboardController',dashboardController);
-    dashboardController.$inject=['$rootScope','dashboardFactory'];
-    function  dashboardController($rootScope,dashboardFactory){
+    dashboardController.$inject=['$rootScope','dashboardFactory','addTopicService'];
+    function  dashboardController($rootScope,dashboardFactory,addTopicService){
 
         var vm=this;
         vm.subject=[];
         vm.subjects=[];
         vm.readAllSubject=readAllSubject;
+        vm.addTopics=addTopics;
         function readAllSubject() {
 
             // The search service returns a promise API
@@ -28,6 +29,11 @@
 
         }
         vm.readAllSubject();
+        function addTopics(name){
+            addTopicService.addTopic(name);
+        }
+
+
 
     }
 

@@ -1,7 +1,10 @@
 
 <div class="container">
+    <div class="row operation-div">
+        <button type="button" class="btn-primary" style="height: 35px;" ng-click="vm.addTopics(vm.subject);"><span class="glyphicon glyphicon-plus-sign"></span> Add New Topic</button>
+    </div>
     <div class="row" >
-        <div class="col-md-4 subject-body" ng-repeat="subject in vm.subject">
+        <div class="col-md-4 subject-body key-people-hover" ng-repeat="subject in vm.subject">
             <a   ui-sref="question({name: subject.name})">
                 <div class="row subject-heading" >{{subject.name}}</div>
                 <div class="row image-div {{subject.name}}" id="img-id">
